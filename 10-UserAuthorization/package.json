@@ -1,0 +1,23 @@
+{
+  "name": "p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "audit": "^0.0.6",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "express": "^4.17.1",
+    "fix": "^0.0.3",
+    "npm": "^10.1.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

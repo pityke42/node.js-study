@@ -1,0 +1,4 @@
+3 Types of middleware:
+    -built in 
+    -custom
+    3. party
